@@ -13,7 +13,7 @@
 
 # API
 ``` 
-/add_word?word=\<word>
+/add_word?word=<word>
 
 response type : {
     status: status code,
@@ -23,7 +23,7 @@ response type : {
 ```
 
 ```
-* /autocomplete?query=\<query>
+/autocomplete?query=<query>
   
 response type [
     <word 1>,
